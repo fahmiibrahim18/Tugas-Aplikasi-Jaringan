@@ -1,3 +1,4 @@
+import os
 while True:
     try:
         # masukan angka
@@ -16,6 +17,7 @@ while True:
         
     except:
         print("Harus Angka!\n")
+        os.system('cls')
 
     
 
