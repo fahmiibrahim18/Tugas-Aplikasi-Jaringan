@@ -2,7 +2,7 @@ import os
 while True:
     try:
         # masukan angka
-        print('Prime Number\n')
+        print('----Prime Number----\n')
         num = int(input("Enter Number= "))
         if num > 1:
             for i in range(2,num):
