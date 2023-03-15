@@ -1,9 +1,4 @@
 import os
-import time as tm
-
-a=tm.time()
-tm.sleep(2)
-print(tm.time()-a)
 while True:
     try:
         # masukan angka
